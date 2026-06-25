@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "project-management-tools",
+    "title": "Project Management: Asana vs Trello vs ClickUp",
+    "shortDescription": "Side-by-side comparison for small to medium teams.",
+    "tools": [
+      {
+        "id": "asana",
+        "name": "Asana",
+        "logo": "/logos/asana.png",
+        "website": "https://asana.com"
+      },
+      {
+        "id": "trello",
+        "name": "Trello",
+        "logo": "/logos/trello.png",
+        "website": "https://trello.com"
+      },
+      {
+        "id": "clickup",
+        "name": "ClickUp",
+        "logo": "/logos/clickup.png",
+        "website": "https://clickup.com"
+      }
+    ],
+    "comparisonTable": [
+      {
+        "feature": "Free Tier",
+        "values": [
+          "Yes (limited)",
+          "Yes (limited)",
+          "Yes (generous)"
+        ]
+      },
+      {
+        "feature": "Boards / Lists / Views",
+        "values": [
+          "Multiple views, timelines",
+          "Kanban-first",
+          "Highly customizable views"
+        ]
+      },
+      {
+        "feature": "Automation",
+        "values": [
+          "Built-in rules",
+          "Power-Ups",
+          "Advanced automations"
+        ]
+      },
+      {
+        "feature": "User Limit (free)",
+        "values": [
+          "Up to 15",
+          "Unlimited",
+          "Unlimited"
+        ]
+      },
+      {
+        "feature": "Best for",
+        "values": [
+          "Mid-large teams",
+          "Simple Kanban users",
+          "Custom workflows & scaling"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "team-chat",
+    "title": "Team Chat: Slack vs Microsoft Teams vs Discord",
+    "shortDescription": "Comparing team communication platforms.",
+    "tools": [
+      {
+        "id": "slack",
+        "name": "Slack",
+        "logo": "/logos/slack.png",
+        "website": "https://slack.com"
+      },
+      {
+        "id": "teams",
+        "name": "Microsoft Teams",
+        "logo": "/logos/teams.png",
+        "website": "https://teams.microsoft.com"
+      },
+      {
+        "id": "discord",
+        "name": "Discord",
+        "logo": "/logos/discord.png",
+        "website": "https://discord.com"
+      }
+    ],
+    "comparisonTable": [
+      {
+        "feature": "Channels",
+        "values": [
+          "Yes, public/private",
+          "Yes, public/private",
+          "Yes, public/private"
+        ]
+      },
+      {
+        "feature": "Video Calls",
+        "values": [
+          "Huddles + calls",
+          "Deeply integrated",
+          "Good for casual calls"
+        ]
+      },
+      {
+        "feature": "Integrations",
+        "values": [
+          "Large app directory",
+          "Office 365 native",
+          "Gaming-oriented + bots"
+        ]
+      },
+      {
+        "feature": "Best for",
+        "values": [
+          "Product teams & companies",
+          "Enterprise + Office users",
+          "Communities & small teams"
+        ]
+      }
+    ]
+  }
+]
